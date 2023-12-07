@@ -31,8 +31,6 @@ public class Day5Part2 {
                 seeds.add(Long.parseLong(seedString.replaceAll("[^0-9]", "")));
             }
         }
-
-
         in.nextLine();
         in.nextLine();
         currentLine = in.nextLine();
